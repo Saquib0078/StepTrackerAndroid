@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595991592767",
+    "project_id": "step-tacker",
+    "storage_bucket": "step-tacker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595991592767:android:13f7e1f90db31865b35d8a",
+        "android_client_info": {
+          "package_name": "com.pegalite.steptacker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595991592767-fdn9dmmh947oe8d0me3sjmnv3lf1posm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6N3n_F5YM7QRtdFgYiyjiRsi_gT_Z3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595991592767-fdn9dmmh947oe8d0me3sjmnv3lf1posm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
